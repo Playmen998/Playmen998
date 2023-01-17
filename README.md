@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi👋, I'm Egor Lavrushkin
 
-<!--
-**Playmen998/Playmen998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technology stack:
++ 📈**DATA ANALYST:** pandas, numpy, matplotlib, seaborn, A-B testing, scipy, statsmodels, bootstrap, folium, hvplot
++ 🗄**SQL:** DDL, DML, Тransact-SQL, CTE, window functions, joins, Data Base (sqlite3, MySql, PostgreSql)
++ 🔮**DATA SCIENCE:** catboost, scikit-learn, hyperopt, shap, linear and logistic regressions, decision trees
++ ⌨ **PYTHON-DEVELOPER:** python, aiogram, requests, beautifulsoup, selenium
++ 🔍**BI ANALYST:** creative dashboards in Tableau
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
