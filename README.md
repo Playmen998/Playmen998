@@ -73,10 +73,6 @@ Other projects you can find in my profile GitHub
   </tr>
   <tr>
     <td> <a href="https://stepik.org/course/113596/syllabus">Data Science с Глебом Михайловым</a> </td>
-    <td>09/2022 - 11/2022</td>
-  </tr>
-  <tr>
-    <td> <a href="https://stepik.org/course/113596/syllabus">Data Science с Глебом Михайловым</a> </td>
     <td>07/2022 - 08/2022</td>
   </tr>
    <tr>
