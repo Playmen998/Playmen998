@@ -58,7 +58,7 @@
   </tr>
 <table>
 
-Other projects you can find in my profile  
+Other projects you can find in my profile GitHub
   
 ### 📚Courses:
 
