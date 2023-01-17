@@ -1,6 +1,8 @@
 ## Hi👋, I'm Egor Lavrushkin
 
-### [Telegram](https://t.me/elavrushki) | [LinkedIn](https://instagram.com/freakssha) | Or write: lavrushkinkin@gmail.com
+#### I am proficient in data analysis and machine learning. I like do research and work with a big data. I strive for career growth and self-development
+
+#### [Telegram](https://t.me/elavrushki) | [LinkedIn]() | Or write: lavrushkinkin@gmail.com
 
 ### 💡Technology stack:
 + 📈**DATA ANALYST:** pandas, numpy, matplotlib, seaborn, A-B testing, scipy, statsmodels, bootstrap, folium, hvplot
