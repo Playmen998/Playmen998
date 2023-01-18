@@ -2,7 +2,7 @@
 
 #### I am proficient in data analysis and machine learning.I strive to learn new tools in practice and common approaches in theory, optimize business processes. Starting new task, I analyze the requirements and limitations and look for an optimal solution using creative approaches.
 
-#### [Telegram](https://t.me/elavrushki) | [LinkedIn]() | Or write: lavrushkinkin@gmail.com
+#### [Telegram](https://t.me/elavrushki) | Or write: lavrushkinkin@gmail.com
 
 ### 💡Technology stack:
 + 📈**DATA ANALYST:** pandas, numpy, matplotlib, seaborn, A-B testing, scipy, statsmodels, bootstrap, folium, hvplot
