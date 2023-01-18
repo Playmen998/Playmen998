@@ -1,6 +1,6 @@
 ## Hi👋, I'm Egor Lavrushkin
 
-#### I am proficient in data analysis and machine learning.I strive to learn new tools in practice and common approaches in theory, optimize business processes, establish team member's interaction, exchange experience and knowledge. Starting new task, I analyze the requirements and limitations and look for an optimal solution using creative approaches.
+#### I am proficient in data analysis and machine learning.I strive to learn new tools in practice and common approaches in theory, optimize business processes. Starting new task, I analyze the requirements and limitations and look for an optimal solution using creative approaches.
 
 #### [Telegram](https://t.me/elavrushki) | [LinkedIn]() | Or write: lavrushkinkin@gmail.com
 
