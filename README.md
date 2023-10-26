@@ -6,7 +6,7 @@
 
 ### 💡Technology stack:
 + 📈**DATA ANALYST:** pandas, numpy, matplotlib, seaborn, A-B testing, scipy, statsmodels, bootstrap, folium, hvplot
-+ 🛠️**Data Engineer** Apache Airflow, build a data pipelines
++ 🛠️**Data Engineer:** Apache Airflow, build a data pipelines
 + 🔮**DATA SCIENCE:** catboost, xgboost, scikit-learn, hyperopt, shap, linear and logistic regressions, decision trees
 + 💾**SQL:** DDL, DML, Тransact-SQL, CTE, window functions, joins, Database (sqlite3, MySql, PostgreSql, SQL Server, ClickHouse)
 + 💻 **PYTHON-DEVELOPER:** python, aiogram, requests, beautifulsoup, selenium, gekko
