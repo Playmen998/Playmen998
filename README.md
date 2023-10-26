@@ -7,9 +7,9 @@
 ### 💡Technology stack:
 + 📈**DATA ANALYST:** pandas, numpy, matplotlib, seaborn, A-B testing, scipy, statsmodels, bootstrap, folium, hvplot
 + 🔮**DATA SCIENCE:** catboost, scikit-learn, hyperopt, shap, linear and logistic regressions, decision trees
-+ 💾**SQL:** DDL, DML, Тransact-SQL, CTE, window functions, joins, Database (sqlite3, MySql, PostgreSql)
-+ 💻 **PYTHON-DEVELOPER:** python, aiogram, requests, beautifulsoup, selenium
-+ 🔍**BI ANALYST:** creative dashboards in Tableau
++ 💾**SQL:** DDL, DML, Тransact-SQL, CTE, window functions, joins, Database (sqlite3, MySql, PostgreSql, SQL Server, ClickHouse)
++ 💻 **PYTHON-DEVELOPER:** python, aiogram, requests, beautifulsoup, selenium, gekko
++ 🔍**BI ANALYST:** Tableau, Power BI (Dax Studio, Power BI Helper, Measure Killer)
 
 ### ✨Best projects:
 <br>
@@ -22,7 +22,7 @@
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Data analyst-2F3134?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAACXBIWXMAAAsTAAALEwEAmpwYAAABB0lEQVR4nO3asQ0CQRADwE+u/1aozwnES4zww85IFIAtw9/BdQEAAAAAACyTx3l+8tV+Pz8nCuhSQJkCyhRQpoAyBZQpoEwBZQooU0CZAsoUUKaAMgWUKaAciALeKKAsFqCAbP5JMhaggFjA8RTkI+j4DohzgC/heAo6TsIeQ49zQNwFOYjFSfi4DXUVcb57F/TvdzO5+9/T/z2QKGBSwLJAYgGTApYFEguYFLAskFjApIBlgcQCJgUsCyQWMClgWSCxgEkBywKJBUwKWBZILGBSwLJAYgGTApYFEguYFLAskFjApIBlgcQCJgUsCyQWMClgWSCxgEkBywLJ3RcAAAAAAABcv+YFvfQnQ1zdk94AAAAASUVORK5CYII="/></td>
     <td>
-      <a href="https://github.com/Playmen998/Data_Analysis/tree/master/Analysis_Telecom_Tariff"><img src="https://badgen.net/badge/icon/Analysis Telecom Tariff?icon=github&label&color=black"/></a> <br>
+      <a href="https://github.com/Playmen998/Analysis_Retail_Store"><img src="https://badgen.net/badge/icon/Analysis Retail Store?icon=github&label&color=black"/></a> <br>
       <a href="https://github.com/Playmen998/Data_Analysis/tree/master/Game_Industry_Analysis"><img src="https://badgen.net/badge/icon/Game Industry Analysis?icon=github&label&color=black"/></a> <br>
       <a href="https://github.com/Playmen998/Data_Analysis/tree/master/A_B_test_design_website"><img src="https://badgen.net/badge/icon/A-B test website?icon=github&label&color=black"/></a>
     </td>
