@@ -6,7 +6,8 @@
 
 ### 💡Technology stack:
 + 📈**DATA ANALYST:** pandas, numpy, matplotlib, seaborn, A-B testing, scipy, statsmodels, bootstrap, folium, hvplot
-+ 🔮**DATA SCIENCE:** catboost, scikit-learn, hyperopt, shap, linear and logistic regressions, decision trees
++ 🛠️**Data Engineer** Apache Airflow, build a data pipelines
++ 🔮**DATA SCIENCE:** catboost, xgboost, scikit-learn, hyperopt, shap, linear and logistic regressions, decision trees
 + 💾**SQL:** DDL, DML, Тransact-SQL, CTE, window functions, joins, Database (sqlite3, MySql, PostgreSql, SQL Server, ClickHouse)
 + 💻 **PYTHON-DEVELOPER:** python, aiogram, requests, beautifulsoup, selenium, gekko
 + 🔍**BI ANALYST:** Tableau, Power BI (Dax Studio, Power BI Helper, Measure Killer)
@@ -44,6 +45,7 @@
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Python Developer-2F3134?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB7ElEQVR4nO3dQUoDMRSH8SySonfQpXiEnqtXsjupzQPvU7xAQQVt54EoqW4KQsdqJ/+J3w+yLIzvS2bsphMCAAAAAAAQ95rPLt3iosvp2S29s9KfzWA30xyXW5tc947RWVoTIZ10I5YZv9ydXxwMUk4GMdIwd4Ucbw8G4TaVBrtFdzk99Tgh+x/qdZ9Dbz+eL0FOiyBiCCKGIGIIIoYgYggihiBiCCKGIGIIIoYgYggihiBiCCKGIGIIIoYgYggihiBiCCKGIGIIIoYgYggihiBiCCKGIGIIIoYgYggihiBiCCKGIGIIIoYgYggihiBiCCKGIGIIIoYgYggihiBiCNJaEFY66QwIYlqbjCBWPwJBrP7gCWL1h00Qqz9ggpjGOva/VR7qRpDqu9c5IfUH5ASpPxQf4eIZYiMLwk+Np8FidJYeD5+QHJe1d43/mxUXB4OU91rwuoo0xOlYb+8nV6GP8l6L8iqF8uv99XdRamp9zjQuescAAGDs/MQP19p/3+g4QbQ4QbQ4QYYadJy6xRu3+NDltBH84rYp1/Z1jdPQMrc46yy91R66942zu9Y4Cy0qu21MMXw/SnsnxXOc1x6uH7tynIfWeI6rEQdZhdYoPsC95yrXHlpTe6j+yxVaU3ugThAAAAAACN/5AACCzhJgPbx3AAAAAElFTkSuQmCC"/></td>
      <td>
+      <a href="https://github.com/Playmen998/Bot_Skills"><img src="https://badgen.net/badge/icon/Bot Skills?icon=github&label&color=black"/></a> <br>
       <a href="https://github.com/Playmen998/Psychotype_Bot"><img src="https://badgen.net/badge/icon/Psychotype Bot?icon=github&label&color=black"/></a> <br>
       <a href="https://github.com/Playmen998/Financial_Bot"><img src="https://badgen.net/badge/icon/Financial Bot?icon=github&label&color=black"/></a> <br>
       <a href="https://github.com/Playmen998/Parsing_Weapon_Fallout4"><img src="https://badgen.net/badge/icon/Parsing_Weapon_Fallout4?icon=github&label&color=black"/></a> <br>
@@ -58,7 +60,7 @@
   </tr>
 <table>
 
-Other projects you can find in my profile GitHub
+**Other projects you can find in my profile GitHub**
   
 ### 📚Courses:
 
@@ -66,6 +68,10 @@ Other projects you can find in my profile GitHub
   <tr>
     <td align="center">Courses</td>
     <td align="center">Date</td>
+  </tr>
+  <tr>
+    <td> <a href="https://stepik.org/course/99527?search=2835362489)">Apache Airflow для аналитика</a> </td>
+    <td>07/2023 - 08/2023</td>
   </tr>
   <tr>
     <td> <a href="https://app.datacamp.com/learn/skill-tracks/tableau-fundamentals)">Tableau Fundamentals</a> </td>
